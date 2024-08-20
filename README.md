@@ -7,7 +7,7 @@
 - **Subir Imágenes**: Permite subir imágenes desde tu dispositivo y colocarlas en un mapa en las coordenadas especificadas.
 - **Ajuste de Límites**: Modifica el tamaño y los límites de la imagen para ajustarla perfectamente a la geografía del mapa.
 - **Rotación de Imágenes**: Rota las imágenes en torno a un punto central, para alinearlas con elementos del mapa.
-- **Interfaz Intuitiva**: Fácil de usar, con herramientas de arrastrar y soltar para posicionar y ajustar imágenes.
+- **Interfaz Intuitiva**: Fácil de usar, con herramientas que permiten una comprensión rapida de como ajustar la imagen.
 - **Basado en Leaflet**: Utiliza la popular biblioteca de mapas Leaflet, asegurando una experiencia fluida y compatible con múltiples dispositivos.
 
 ## Instalación
